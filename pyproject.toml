@@ -1,0 +1,9 @@
+[project]
+name = "slooflirpa"
+version = "0.1"
+dependencies = ["streamlit"]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+

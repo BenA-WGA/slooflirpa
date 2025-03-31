@@ -1,0 +1,15 @@
+
+.vscode/
+.idea/
+.pytest_cache/
+dist/
+venv/
+
+pytest.log
+
+*.egg-info/
+*.ipynb_checkpoints
+*.pyc
+*.pyo
+*__pycache__/
+*.so
