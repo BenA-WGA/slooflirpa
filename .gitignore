@@ -4,6 +4,7 @@
 .pytest_cache/
 dist/
 venv/
+build/
 
 pytest.log
 
